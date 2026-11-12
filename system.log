@@ -1,0 +1,12 @@
+INFO User student logged in
+INFO User admin logged in
+ERROR Failed to open file
+INFO User student logged out
+FAILED Login attempt by unknown user
+ERROR System configuration problem
+INFO User admin logged out
+FAILED Login attempt by unknown user
+WARNING Disk space is getting low
+INFO User student logged in
+ERROR Unable to access file
+FAILED Login attempt by unknown user

@@ -1,0 +1,21 @@
+==========================================
+             LOGGUARD REPORT
+==========================================
+
+Total Errors: 3
+Failed Login Attempts: 3
+
+WARNING: Failed login attempts detected.
+
+Log Type Summary:
+INFO: 5
+ERROR: 3
+FAILED: 3
+WARNING: 1
+
+Failed Login Details:
+FAILED Login attempt by unknown user
+FAILED Login attempt by unknown user
+FAILED Login attempt by unknown user
+
+Report generated successfully.
